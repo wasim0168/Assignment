@@ -1,0 +1,18 @@
+
+.navbar-nav .nav-item .nav-link.active:hover {
+    color: #49ff77; 
+}
+ .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+
+}
+.text-uppercase {
+    text-transform: uppercase; 
+    font-weight: 900;
+    margin-bottom: 300px;
+
+}
+
